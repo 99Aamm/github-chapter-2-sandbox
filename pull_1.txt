@@ -1,0 +1,16 @@
+
+=== Catatan Belajar Git: Pull Request ===
+
+Apa itu Pull Request?
+Pull Request adalah cara untuk mengusulkan perubahan dari satu branch
+ke branch lain. Ini adalah jantung dari kolaborasi di Git.
+
+Workflow yang aku pelajari hari ini:
+1. Buat branch baru dari main
+2. Lakukan perubahan di branch tersebut
+3. Push branch ke GitHub
+4. Buat Pull Request dari branch ke main
+5. Merge Pull Request
+
+Catatan tambahan:
+-
